@@ -2,7 +2,7 @@
 Contributors: edir
 Tags: widgets, sidebars
 Requires at least: 3.0
-Tested up to: 3.0
+Tested up to: 3.1.2
 Stable tag: 1.0
 
 A better interface for Widgets to let you increase the number of your Sidebars without lose your mind.
