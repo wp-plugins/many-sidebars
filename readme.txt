@@ -15,7 +15,7 @@ When you use Wordpress as a CMS, it's very common to create so many sidebars tha
 
 1. Upload `many-sidebars` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to Widgets page to enjoy.
+3. Go to Widgets page to enjoy
 
 == Screenshots ==
 
