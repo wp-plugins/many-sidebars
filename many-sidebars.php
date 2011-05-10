@@ -3,7 +3,7 @@
 Plugin Name: Many Sidebars
 Plugin URI: http://wordpress.org/extend/plugins/many-sidebars/
 Description: An interface addition for Widgets to let you increase the number of your Sidebars without lose your mind.
-Version: 1.0
+Version: 1.0.1
 Author: Edir Pedro
 Author URI: http://edirpedro.com.br
 License: GPL2

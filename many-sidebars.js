@@ -71,24 +71,21 @@ jQuery(document).ready(function($) {
 	// Functions
 	
 	many_sidebars_show = function(id) {
+		many_sidebars_hide();
 		if(id == 'all') {
 			$('#widgets-right .widgets-holder-wrap').each(function(index) {
 				if(index > 0)
-					$(this).addClass('closed').show();
+					$(this).show();
 			});
 		} else {
-			many_sidebars_hide();
-			var elem = $('#'+id);
-			elem.show();
-			if(elem.hasClass('closed'))
-				$('.sidebar-name', elem).click();
+			$('#'+id).show().children('.sidebar-name').click();
 		}
 	}
 	
 	many_sidebars_hide = function() {
 		$('#widgets-right .widgets-holder-wrap').each(function(index) {
 			if(index > 0)
-				$(this).hide();
+				$(this).addClass('closed').hide();
 		});
 	}
 	

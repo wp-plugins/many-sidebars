@@ -3,7 +3,7 @@ Contributors: edir
 Tags: widgets, sidebars
 Requires at least: 3.0
 Tested up to: 3.1.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 An interface addition for Widgets to let you increase the number of your Sidebars without lose your mind.
 
@@ -22,6 +22,9 @@ When you use Wordpress as a CMS, it's very common to create so many sidebars tha
 1. In the select field you can find all your sidebars.
 
 == Changelog ==
+
+= 1.0.1 =
+* Bugfix when open the sidebar panel and drag widgets to it
 
 = 1.0 =
 * First release.
